@@ -300,8 +300,11 @@ public class Emergencycontactservice extends Service {
 ## SERVER:
 
 <img width="1535" height="813" alt="Screenshot 2026-11-03 091741" src="https://github.com/user-attachments/assets/9257e65f-5020-40c4-a701-2d8063caaf41" />
+
 ## CLIENT:
 
 <img width="1535" height="811" alt="Screenshot 2026-11-03 091535" src="https://github.com/user-attachments/assets/a4b24906-d05d-4c83-8021-cf441f405be8" />
+
 ## RESULT
+
 Thus a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
